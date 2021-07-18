@@ -268,7 +268,7 @@ class GF_Enhanced_Select extends GFAddOn {
 	 * @param array $tooltips An array with the existing tooltips.
 	 */
 	public function tooltips( $tooltips ) {
-		$tooltips['form_field_enable_esfg'] = '<h6>Enable Select2 UI enhancer</h6>Check this box to enable Select2 script in your drop down or multiselect field. "Enable enhanced user interface" must be disabled for ALL the fields of this form.';
+		$tooltips['form_field_enable_esfg'] = '<h6>Enable Selectize UI enhancer</h6>Check this box to enable Selectize script in your drop down or multiselect field. "Enable enhanced user interface" must be disabled for ALL the fields of this form.';
 		return $tooltips;
 	}
 
