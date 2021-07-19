@@ -2,7 +2,7 @@
 /*
 Plugin Name: Enhanced Select for Gravity
 Plugin URI: https://www.samuelaguilera.com
-Description: Adds Select2 for Drop Down and Multi Select fields in Gravity Forms.
+Description: Adds Selectize for Drop Down and Multi Select fields in Gravity Forms.
 Version: 1.0-beta-3
 Author: Samuel Aguilera
 Author URI: https://www.samuelaguilera.com
